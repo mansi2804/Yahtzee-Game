@@ -47,3 +47,6 @@ This project utilizes the Provider package for state management. The Dice and Sc
 This app has been tested on the following platforms: </br>
 iOS </br>
 Web (Chrome) </br>
+
+
+<div align="center"> <h1>Thank you for checking out this project! 😊  </h1> </div>
