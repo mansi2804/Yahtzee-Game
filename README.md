@@ -36,6 +36,9 @@ Running the App</br>
 Navigate to the project directory:</br>
 cd yahtzee-game
 
+Fetch the project dependencies:</br>
+flutter pub get
+
 Run the app in a simulator or on a connected device:</br>
 flutter run
 
