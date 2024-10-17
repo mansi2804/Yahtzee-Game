@@ -33,6 +33,7 @@ Clone the Repository: </br>
 git clone <repository-url> 
 
 Running the App</br>
+
 Navigate to the project directory:</br>
 cd yahtzee-game
 
