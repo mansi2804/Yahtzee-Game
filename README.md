@@ -1,4 +1,5 @@
 CS 442 MP3: Yahtzee
+
 Overview
 This project is a single-player implementation of the classic dice game Yahtzee as part of CS 442 coursework. The game allows the player to roll dice, hold dice, and select scoring categories over multiple rounds, eventually calculating a final score after all 13 categories are filled.
 
