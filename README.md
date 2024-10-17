@@ -3,7 +3,6 @@
 
 **Overview: 
 </br>This project is a single-player implementation of the classic dice game Yahtzee, developed as part of the CS 442 coursework. The game allows the player to roll dice, hold dice, and select scoring categories over multiple rounds, ultimately calculating a final score after all 13 categories are filled.
-
 The app is built using Flutter to provide a dynamic, interactive user interface, demonstrating state management and the use of stateful widgets. The design is tailored for 720p resolution (1280x720 pixels).
 
 **Features:</br>
@@ -27,17 +26,17 @@ scorecard.dart: Manages scorecard logic, scoring calculations, and category trac
 
 **How to Run the Project</br>
 
-Prerequisites</br>
-Install Flutter.
+Prerequisites:</br>
+Install Flutter
 
-Clone the Repository:
+Clone the Repository: </br>
 git clone <repository-url> 
 
-Running the App
-Navigate to the project directory:
+Running the App</br>
+Navigate to the project directory:</br>
 cd yahtzee-game
 
-Run the app in a simulator or on a connected device:
+Run the app in a simulator or on a connected device:</br>
 flutter run
 
 **State Management</br>
