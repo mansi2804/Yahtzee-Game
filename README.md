@@ -7,27 +7,27 @@
 The app is built using Flutter to provide a dynamic, interactive user interface, demonstrating state management and the use of stateful widgets. The design is tailored for 720p resolution (1280x720 pixels).
 
 **Features:</br>
-🎲 Dice Rolling: Roll up to five dice at a time.
-🎯 Hold Dice: Toggle holding dice to exclude them from subsequent rolls.
-📝 Scoring: Select from 13 different Yahtzee scoring categories.
-🔄 Three Rolls Per Turn: Roll the dice up to three times before selecting a score.
-🎉 Game End and Reset: After filling all categories, the game ends and the final score is shown in an AlertDialog, allowing the player to restart the game.
+🎲 Dice Rolling: Roll up to five dice at a time.</br>
+🎯 Hold Dice: Toggle holding dice to exclude them from subsequent rolls.</br>
+📝 Scoring: Select from 13 different Yahtzee scoring categories.</br>
+🔄 Three Rolls Per Turn: Roll the dice up to three times before selecting a score.</br>
+🎉 Game End and Reset: After filling all categories, the game ends and the final score is shown in an AlertDialog, allowing the player to restart the game.</br>
 
-**Project Structure: 
+**Project Structure: </br>
 
-Directories and Files
-lib/views/: Contains the UI components, including the dice display, scorecard display, and the main game container.
-lib/models/: Contains the data model classes for dice and scorecard, as well as logic for dice rolls, score calculations, and overall game state.
+Directories and Files</br>
+lib/views/: Contains the UI components, including the dice display, scorecard display, and the main game container.</br>
+lib/models/: Contains the data model classes for dice and scorecard, as well as logic for dice rolls, score calculations, and overall game state.</br>
 
-**Key Files
-main.dart: Entry point of the application.
-yahtzee.dart: Core UI for the game, including the main game container, dice display, and scorecard UI. It ties together various components and manages the layout.
-dice.dart: Handles dice mechanics such as rolling and holding.
-scorecard.dart: Manages scorecard logic, scoring calculations, and category tracking.
+**Key Files</br>
+main.dart: Entry point of the application.</br>
+yahtzee.dart: Core UI for the game, including the main game container, dice display, and scorecard UI. It ties together various components and manages the layout.</br>
+dice.dart: Handles dice mechanics such as rolling and holding.</br>
+scorecard.dart: Manages scorecard logic, scoring calculations, and category tracking.</br>
 
-**How to Run the Project
+**How to Run the Project</br>
 
-Prerequisites
+Prerequisites</br>
 Install Flutter.
 
 Clone the Repository:
@@ -40,10 +40,10 @@ cd yahtzee-game
 Run the app in a simulator or on a connected device:
 flutter run
 
-**State Management
+**State Management</br>
 This project utilizes the Provider package for state management. The Dice and Scorecard classes encapsulate the game state, allowing the UI to dynamically react to changes in dice rolls, hold status, and score categories.
 
-**Testing and Platforms
+**Testing and Platforms</br>
 
 This app has been tested on the following platforms:
 iOS
