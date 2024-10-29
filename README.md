@@ -4,7 +4,7 @@
 <div> <h1> Overview </h1> </div>
 </br>This project is a single-player implementation of the classic dice game Yahtzee, developed as part of the CS 442 coursework. The game allows the player to roll dice, hold dice, and select scoring categories over multiple rounds, ultimately calculating a final score after all 13 categories are filled. </br>
 The app is built using Flutter to provide a dynamic, interactive user interface, demonstrating state management and the use of stateful widgets. The design is tailored for 720p resolution (1280x720 pixels).
-   
+    
 <div align="center"> <h1> Features </h1> </div>
 🎲 Dice Rolling: Roll up to five dice at a time.</br>
 🎯 Hold Dice: Toggle holding dice to exclude them from subsequent rolls.</br>
