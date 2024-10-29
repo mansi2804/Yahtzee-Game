@@ -3,7 +3,7 @@ import '/models/scorecard.dart';
 import 'package:flutter/material.dart';
 class Yahtzee extends StatefulWidget {
   const Yahtzee({Key? key}) : super(key: key);
-    
+     
   @override
   _YahtzeeState createState() => _YahtzeeState();
 }
